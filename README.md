@@ -1,7 +1,7 @@
 # AMNet
 This code is the official implementation of TCSVT 2020 paper "Recaptured Screen Image Demoiréing".
 
-Requirement:<br>
+Environment:<br>
 --------
 windows 8 + Nvidia Titan X GPU<br>
 python (version 3.6.4) + Tensorflow (1.10.0) <br>
