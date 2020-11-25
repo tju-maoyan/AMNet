@@ -1,5 +1,4 @@
 # AMNet
-========
 This code is the official implementation of TCSVT 2020 paper "Recaptured Screen Image Demoiréing".
 
 Requirement:<br>
