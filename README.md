@@ -3,8 +3,8 @@ This code is the official implementation of TCSVT 2020 paper "Recaptured Screen 
 
 Environment:<br>
 --------
-windows 8 + Nvidia Titan X GPU<br>
-python (version 3.6.4) + Tensorflow (1.10.0) <br>
+Windows 8 + Nvidia Titan X GPU <br>
+Python (version 3.6.4) + Tensorflow (version 1.10.0) <br>
 
 Download pre-trained model:<br>
 --------
