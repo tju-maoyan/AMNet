@@ -3,8 +3,7 @@ This code is the official implementation of TCSVT 2020 paper "Recaptured Screen 
 
 Paper:<br>
 --------
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8972378<br>
-https://ieeexplore.ieee.org/ielx7/76/9316347/8972378/supp1-2969984.pdf?tp=&arnumber=8972378<br>
+https://ieeexplore.ieee.org/abstract/document/8972378<br>
 
 Environment:<br>
 --------
