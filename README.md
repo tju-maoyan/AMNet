@@ -17,11 +17,10 @@ Fig. 1. The architecture of our AMNet: (a) the generator of our network, compris
 
 Results:<br>
 -------
- <div align="center">![image](https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png)<br>
-<div align=center><"https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png"/></div>
+<div align="center">![image](https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png)<br>
 Fig. 2. The recaptured screen images (top row), our demoiréing results (the second row), and the corresponding screenshot images (bottom row). Please zoom in the figure for better observation.
 
- <div align="center">![image](https://github.com/tju-maoyan/AMNet/blob/master/images/SOTA.png)<br>
+<div align="center">![image](https://github.com/tju-maoyan/AMNet/blob/master/images/SOTA.png)<br>
 Fig. 3. Visual quality comparisons for one image captured by Huawei Honor 6X with the screen Philips MWX12201
 
 Download pre-trained model:<br>
