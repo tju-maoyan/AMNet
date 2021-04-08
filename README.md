@@ -34,6 +34,16 @@ Download dataset:<br>
 `Training set:` https://pan.baidu.com/s/1Xn5YygDb9Eg5u5zL3plrsA (key:gpxd)<br>
 `Test set:` https://pan.baidu.com/s/1KCZciRYb-MP16u4W1w3X0Q (key:isn6)<br>
 
+Test:<br>
+-------
+Please download pre-trained model and test set, then run:<br>
+`python test.py`
+
+Train:<br>
+--------
+Please download training set and run:<br>
+`python main.py`
+
 Citation<br>
 -------
 If you find this work useful for your research, please cite:<br>
