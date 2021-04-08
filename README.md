@@ -34,11 +34,11 @@ If you find this work useful for your research, please cite:<br>
 ```
 @article{Yue2020Recaptured,
 	author = {Yue, Huanjing and Mao, Yan and Liang, Lipu and Xu, Hongteng and Hou, Chunping and Yang, Jingyu},
-	year = {2020},
-	month = {01},
-	pages = {1-1},
-        title = {Recaptured Screen Image Demoir\'eing}
-	volume = {PP},
+	year = {2021},
+        title = {Recaptured Screen Image Demoir\'eing},
+	volume={31},
+	number={1},
+	pages={49-60},
 	journal = {IEEE Transactions on Circuits and Systems for Video Technology},
 	doi = {10.1109/TCSVT.2020.2969984}
 }
