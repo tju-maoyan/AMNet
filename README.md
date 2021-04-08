@@ -12,15 +12,15 @@ Python (version 3.6.4) + Tensorflow (version 1.10.0) <br>
 
 Network:<br>
 -------
-![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)<br>
+< div align=center>![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)<br>
 Fig. 1. The architecture of our AMNet: (a) the generator of our network, comprised of additive (circled by the purple rectangle) and multiplicative (circled by the green rectangle) modules, (b) the ASPP block in the generator network, (c) the multiplicative block in the generator network, and (d) the discriminator of our network. In particular, the “k” represents kernel size, the “n” represents the number of channels, the “s” represents stride size, and the “d” represents the dilation rate. The upsampling layer is realized by 2× nearest neighbor upsampling.
 
 Results:<br>
 -------
-![image](https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png)<br>
+< div align=center>![image](https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png)<br>
 Fig. 2. The recaptured screen images (top row), our demoiréing results (the second row), and the corresponding screenshot images (bottom row). Please zoom in the figure for better observation.
 
-![image](https://github.com/tju-maoyan/AMNet/blob/master/images/SOTA.png)<br>
+< div align=center>![image](https://github.com/tju-maoyan/AMNet/blob/master/images/SOTA.png)<br>
 Fig. 3. Visual quality comparisons for one image captured by Huawei Honor 6X with the screen Philips MWX12201
 
 Download pre-trained model:<br>
