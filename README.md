@@ -14,6 +14,10 @@ Network:<br>
 -------
 ![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
 
+Results:<br>
+-------
+![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
+
 Download pre-trained model:<br>
 --------
 `VGG19:` https://pan.baidu.com/s/1YFbPiBYtdIa6ZDmWYJHZJQ (key:l6x1)<br>
