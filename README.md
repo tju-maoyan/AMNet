@@ -5,14 +5,14 @@ Paper:<br>
 --------
 https://ieeexplore.ieee.org/abstract/document/8972378<br>
 
-Network:<br>
--------
-![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
-
 Environment:<br>
 --------
 Windows 8 + Nvidia Titan X GPU <br>
 Python (version 3.6.4) + Tensorflow (version 1.10.0) <br>
+
+Network:<br>
+-------
+![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
 
 Download pre-trained model:<br>
 --------
