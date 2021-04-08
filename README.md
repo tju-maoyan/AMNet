@@ -1,13 +1,10 @@
 # Recaptured Screen Image Demoiréing (AMNet)
 This code is the official implementation of TCSVT 2020 paper "Recaptured Screen Image Demoiréing".
+![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
 
 Paper:<br>
 --------
 https://ieeexplore.ieee.org/abstract/document/8972378<br>
-
-Network:<br>
---------
-![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
 
 Environment:<br>
 --------
