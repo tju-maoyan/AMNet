@@ -19,6 +19,7 @@ Results:<br>
 -------
  <div align=center><img src="https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png" width="40%" height="40%"></div><br>
 Fig. 2. The recaptured screen images (top row), our demoiréing results (the second row), and the corresponding screenshot images (bottom row). Please zoom in the figure for better observation.
+<br>
 
  <div align=center><img src="https://github.com/tju-maoyan/AMNet/blob/master/images/SOTA.png"></div><br>
 Fig. 3. Visual quality comparisons for one image captured by Huawei Honor 6X with the screen Philips MWX12201
