@@ -13,6 +13,10 @@ Python (version 3.6.4) + Tensorflow (version 1.10.0) <br>
 Network:<br>
 -------
 ![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
+Fig. 1. The architecture of our AMNet: (a) the generator of our network, comprised of additive (circled by the purple rectangle) and multiplicative (circled
+by the green rectangle) modules, (b) the ASPP block in the generator network, (c) the multiplicative block in the generator network, and (d) the discriminator
+of our network. In particular, the “k” represents kernel size, the “n” represents the number of channels, the “s” represents stride size, and the “d” represents
+the dilation rate. The upsampling layer is realized by 2× nearest neighbor upsampling.
 
 Results:<br>
 -------
