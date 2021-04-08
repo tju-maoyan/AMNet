@@ -10,6 +10,10 @@ Environment:<br>
 Windows 8 + Nvidia Titan X GPU <br>
 Python (version 3.6.4) + Tensorflow (version 1.10.0) <br>
 
+Network:<br>
+-------
+![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
+
 Download pre-trained model:<br>
 --------
 `VGG19:` https://pan.baidu.com/s/1YFbPiBYtdIa6ZDmWYJHZJQ (key:l6x1)<br>
