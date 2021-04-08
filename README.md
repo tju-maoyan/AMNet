@@ -36,12 +36,12 @@ Download dataset:<br>
 
 Test:<br>
 -------
-Please download pre-trained model and test set, then run:<br>
+*Please download pre-trained model and test set, then run:<br>
 `python test.py`
 
 Train:<br>
 --------
-Please download training set and run:<br>
+*Please download training set and run:<br>
 `python main.py`
 
 Citation<br>
