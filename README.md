@@ -46,7 +46,7 @@ Train:<br>
 * change the path in `main.py`.
 * run:  `python main.py`.
 
-Citation<br>
+Citation:<br>
 -------
 If you find this work useful for your research, please cite:<br>
 ```
@@ -61,3 +61,7 @@ If you find this work useful for your research, please cite:<br>
 	doi = {10.1109/TCSVT.2020.2969984}
 }
 ```
+
+Contactor:<br>
+----------
+If you have any question, please concat me with maoyan@tju.edu.cn.
