@@ -16,7 +16,7 @@ Network:<br>
 
 Results:<br>
 -------
-![image](https://github.com/tju-maoyan/AMNet/blob/master/images/Network.png)
+![image](https://github.com/tju-maoyan/AMNet/blob/master/images/demoire_exp.png)
 
 Download pre-trained model:<br>
 --------
